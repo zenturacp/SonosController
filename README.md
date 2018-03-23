@@ -10,6 +10,10 @@ Simple start with node controller.js and it will check every 10 seconds
 
 You can modify all variables in the top of the controller.js file
 
-*  const SonosIP = (IP Address ex. '192.168.1.100')
+*  const DeviceName = (The Name of your speaker)
 *  const MaxVolume = (Max volume in Percent 1-100)
 *  const ScanInterval = (Interval in Miliseconds ex. 10000 for 10 seconds)
+
+# Todo
+
+*  Better error handling on DeviceDiscovery

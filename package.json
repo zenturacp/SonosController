@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/zenturacp/SonosController#readme",
   "dependencies": {
+    "json-query": "^2.2.2",
     "sonos": "^1.1.1"
   }
 }
