@@ -1,0 +1,22 @@
+{
+  "name": "sonoscontrol",
+  "version": "1.0.0",
+  "description": "Limit volume on Sonos Speaker",
+  "main": "controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenturacp/SonosController.git"
+  },
+  "author": "Christian Pedersen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenturacp/SonosController/issues"
+  },
+  "homepage": "https://github.com/zenturacp/SonosController#readme",
+  "dependencies": {
+    "sonos": "^1.1.1"
+  }
+}
