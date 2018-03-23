@@ -1,4 +1,4 @@
-const DeviceName = 'SpeakerName' // Speaker Name from Sonos Controller
+const DeviceName = 'Nana' // Speaker Name from Sonos Controller
 const MaxVolume = 40 // Maximum Volume in percent
 const ScanInterval = 10000 // Miliseconds
 
