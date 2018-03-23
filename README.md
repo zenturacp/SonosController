@@ -19,3 +19,9 @@ You can modify all variables in the top of the controller.js file
 # Todo
 
 *  Better error handling on DeviceDiscovery
+
+# Author
+
+Christian Pedersen
+Mail: christian@jagtvej14.dk
+Twitter: zentura_cp
