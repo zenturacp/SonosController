@@ -2,9 +2,9 @@
 
 A simple Kids' Parental control of the MAX volume of a Sonos Speaker
 
-I saw the forum post on Sonos.com https://en.community.sonos.com/controllers-software-228995/volume-limit-feature-4412144 and was very annoyed that there was no easy fix to this problem.
+I saw the forum post on Sonos.com [Read here](https://en.community.sonos.com/controllers-software-228995/volume-limit-feature-4412144) and was very annoyed that there was no easy fix to this problem.
 
-Requires Node.JS and edit the controller.js file and adjust the Name of the speaker you want to control
+Requires [Node.JS](https://nodejs.org/en/) and edit the controller.js file and adjust the Name of the speaker you want to control
 
 Simple start with "node controller.js" and it will check in defined interval
 
