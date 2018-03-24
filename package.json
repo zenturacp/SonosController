@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/zenturacp/SonosController.git"
   },
-  "author": "Christian Pedersen",
+  "author": "Christian Pedersen <christian@jagtvej14.dk> (https://www.zentura.dk)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zenturacp/SonosController/issues"
