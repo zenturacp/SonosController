@@ -19,6 +19,7 @@ You can modify all variables in the top of the controller.js file
 # Todo
 
 *  Better error handling on DeviceDiscovery
+*  Switch to Listener instead of pulling the Speaker
 
 # Author
 
