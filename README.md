@@ -15,10 +15,12 @@ You can modify all variables in the top of the controller.js file
 *  const DeviceName = (The Name of your speaker)
 *  const MaxVolume = (Max volume in Percent 1-100)
 
-# Todo
+# Todo / Roadmap
 
 -  Better error handling on DeviceDiscovery
  - It sometimes causes an error when the script starts
+- WebInterface
+- Multi Speaker (More than just 1 speaker monitored)
 
 # Author
 
