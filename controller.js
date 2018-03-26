@@ -8,6 +8,8 @@ const DeviceDiscovery = require('sonos').DeviceDiscovery
 const URL = require('url').URL
 const jsonQuery = require('json-query')
 
+console.log('Sonos Volume limiter started')
+
 // Discover the Device needed
 function MonitorSpeaker(SpeakerName, callback) {
   DeviceDiscovery({
@@ -38,7 +40,6 @@ MonitorSpeaker(DeviceName, function(SonosIP) {
 
   const device = new Sonos(SonosIP);
 
-  console.log('Sonos Volume limiter started')
   console.log('Found Speaker ' + DeviceName + ' at ip: ' + SonosIP)
   console.log('Max volume set to: ' + MaxVolume + '%')
   console.log('Listen for Sonos Volume events. CTRL + C to exit')
