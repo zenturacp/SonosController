@@ -25,7 +25,5 @@ You can modify all variables in the top of the controller.js file
 # Author
 
 Christian Pedersen
-
 Mail: christian@jagtvej14.dk
-
 Twitter: zentura_cp
